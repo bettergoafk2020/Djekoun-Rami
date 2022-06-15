@@ -1,0 +1,18 @@
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\bin\Debug\Projet de licence l3 Rami.exe.config
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\bin\Debug\Projet de licence l3 Rami.exe
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\bin\Debug\Projet de licence l3 Rami.pdb
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet de licence l3 Rami.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet de licence l3 Rami.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.Login.resources
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.Properties.Resources.resources
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet de licence l3 Rami.csproj.GenerateResource.cache
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet de licence l3 Rami.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet de licence l3 Rami.exe
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet de licence l3 Rami.pdb
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.Learning_page.resources
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.RNA_Training.resources
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.Svm_Train_page.resources
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.Data_Base.resources
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.RNA_test.resources
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.SVM_testcs.resources
+C:\Users\MSI MODERN\source\repos\Projet de licence l3 Rami\Projet de licence l3 Rami\obj\Debug\Projet_de_licence_l3_Rami.Test.resources
